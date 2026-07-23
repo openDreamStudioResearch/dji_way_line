@@ -17,3 +17,10 @@ dist-ssr
 backend/data/
 .tmp
 .temp
+.kiro/
+docs/
+patrol_template/
+reference_patrol/
+wpmz/
+司空2航线模版/
+测试文件夹/
